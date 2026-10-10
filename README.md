@@ -28,7 +28,7 @@ Estudo Análise e Desenvolvimento de Sistemas e vou aplicando o que aprendo em p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql&theme=dark" alt="HTML, CSS, JavaScript e MySQL" />
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,python&theme=dark" alt="HTML, CSS, JavaScript e MySQL" />
 
 </div>
 
