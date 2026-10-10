@@ -65,13 +65,11 @@ Estudo Análise e Desenvolvimento de Sistemas e vou aplicando o que aprendo em p
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=PedroEmanuu&theme=dark&background=0D0D0D&ring=A855F7&fire=A855F7&currStreakNum=E9D5FF&currStreakLabel=C4B5FD&sideNums=E9D5FF&sideLabels=A78BFA&dates=71717A&stroke=3B0764&border=3B0764" alt="GitHub Streak" />
-<!--
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroEmanuu&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=e9d5ff&area=true&area_color=6d28d9&hide_border=true&radius=8" alt="Activity Graph" />
-
 </div>
+<!--
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroEmanuu&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=e9d5ff&area=true&area_color=6d28d9&hide_border=true&radius=8" alt="Activity Graph" />
 -->
+
 <br/>
 
 ## ▍ contribuições
