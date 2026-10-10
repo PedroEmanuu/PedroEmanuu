@@ -71,10 +71,8 @@ Estudo Análise e Desenvolvimento de Sistemas e vou aplicando o que aprendo em p
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroEmanuu&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=e9d5ff&area=true&area_color=6d28d9&hide_border=true&radius=8" alt="Activity Graph" />
 
 </div>
-
-<br/>
 -->
-
+<br/>
 
 ## ▍ contribuições
 
