@@ -18,15 +18,7 @@
 
 ## ▍ sobre mim
 
-```js
-const pedro = {
-  nome: "Pedro Emanuel",
-  curso: "Análise e Desenvolvimento de Sistemas",
-  usoNoDiaADia: ["HTML", "CSS", "JavaScript", "MySQL"],
-  portfolio: "em constante atualização, conforme eu estudo",
-  agora: "buscando uma oportunidade de estágio em tecnologia",
-};
-```
+
 
 Estudo Análise e Desenvolvimento de Sistemas e vou aplicando o que aprendo em projetos próprios. Meu portfólio nasceu como meu primeiro grande projeto e continua sendo atualizado a cada coisa nova que estudo.
 
