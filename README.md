@@ -74,28 +74,7 @@ Estudo Análise e Desenvolvimento de Sistemas e vou aplicando o que aprendo em p
 
 <br/>
 
-## ▍ troféus
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PedroEmanuu&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-## ▍ contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroEmanuu/PedroEmanuu/output/github-snake-purple.svg" />
-  <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/PedroEmanuu/PedroEmanuu/output/github-snake-purple.svg" />
-</picture>
-
-</div>
-
-<br/>
 
 ## ▍ vamos conversar
 
