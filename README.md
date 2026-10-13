@@ -8,7 +8,7 @@
 
 <br/>
 
-![Perfil](https://img.shields.io/badge/perfil-dev_em_Front_End-7c3aed?style=flat-square&labelColor=0d0d0d)
+![Perfil](https://img.shields.io/badge/perfil-dev_Front_End-7c3aed?style=flat-square&labelColor=0d0d0d)
 ![Foco](https://img.shields.io/badge/foco-front--end-a855f7?style=flat-square&labelColor=0d0d0d)
 ![Status](https://img.shields.io/badge/status-buscando_est%C3%A1gio-c4b5fd?style=flat-square&labelColor=0d0d0d)
 
